@@ -1,0 +1,15 @@
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\exceptions\ErrorResponse.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\service\NoteServiceImpl.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\web\CategoryController.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\entity\Note.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\service\CategoryService.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\exceptions\NoteNotFoundException.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\repository\NoteRepository.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\ApplicationExceptions.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\service\CategoryServiceImpl.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\service\NoteService.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\web\NoteController.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\entity\Category.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\exceptions\CategoryNotFoundException.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\repository\CategoryRepository.java
+C:\Users\NZMFEZ001\Desktop\todo\Backend\src\main\java\com\fezekanzama\todo\TodoApplication.java

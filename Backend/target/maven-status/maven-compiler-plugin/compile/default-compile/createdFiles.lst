@@ -1,0 +1,15 @@
+com\fezekanzama\todo\exceptions\ErrorResponse.class
+com\fezekanzama\todo\exceptions\CategoryNotFoundException.class
+com\fezekanzama\todo\service\NoteServiceImpl.class
+com\fezekanzama\todo\service\CategoryService.class
+com\fezekanzama\todo\web\CategoryController.class
+com\fezekanzama\todo\entity\Category.class
+com\fezekanzama\todo\exceptions\NoteNotFoundException.class
+com\fezekanzama\todo\repository\CategoryRepository.class
+com\fezekanzama\todo\service\CategoryServiceImpl.class
+com\fezekanzama\todo\web\NoteController.class
+com\fezekanzama\todo\service\NoteService.class
+com\fezekanzama\todo\ApplicationExceptions.class
+com\fezekanzama\todo\entity\Note.class
+com\fezekanzama\todo\TodoApplication.class
+com\fezekanzama\todo\repository\NoteRepository.class
