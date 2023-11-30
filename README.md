@@ -31,3 +31,9 @@ This To Do App Project was built with the intention of helping me practice my ne
 #### Run instructions
 - Navigate to the frontend directory and run: ``` npx next dev ```
 - The application will launch at localhost:3000
+
+### Areas of Development 
+Whilst this project allowed me to practice the skills I was aiming for it could be improved in the following ways:
+1. Slow loading: From entering inputs to saving and displaying in the list of to dos there is a time delay in the app. This warrants more investigation to determine how to reduce that lag although I suspect the issue is caused by the frontend and backend apps being on different ports
+2. Consistent DB: Currently the H2 Database engine is used for this application. H2 is not a persistent DB therefore to make this project production ready we would need to add a persistent DB
+3. Design: The frontend design whilst sleek and intuitive could use some work, especially with regards to the item description section, namely allowing for descriptions to be entered as bullet points
